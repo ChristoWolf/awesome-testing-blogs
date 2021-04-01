@@ -9,6 +9,7 @@ If you would like to add any awesome testing blogs to this list, please create
 and add the following information:
 - the blog's URL (only secure links will be accepted)
 - and a short, but expressive description of the blog (might be modified if needed).
+
 For pull requests, please adhere to the already present Markdown formatting.
 
 ## Topics overview
@@ -23,8 +24,11 @@ For pull requests, please adhere to the already present Markdown formatting.
 - [5blogs:](https://5blogs.wordpress.com/) 5 daily, newly curated software testing blog posts.
 - [Association for Software Testing:](https://associationforsoftwaretesting.org/blog/) More blog posts about various topics.
 - [XRAY Software Testing Blog:](https://www.getxray.app/blog/category/software-testing/) Even more software testing blog posts. Its yearly trends predictions sets this one apart.
+- [Testhouse Blogs: ](https://www.testhouse.net/blogs/) Blog posts with strong focus on test management and QA.
+- [Software Testing Magazine:](https://www.softwaretestingmagazine.com/) Contains articles about a multitude of easily filterable topics.
 - [Alexander on Testing:](https://alexanderontesting.com/) Another one containing various software testing related blog posts.
 - [Nicky tests:](https://nickytests.blogspot.com/) More focused on soft skills and manual testing.
+- [Tomi Familoni's testing diary: ](https://familonitomi.com/) Another software testing and QA diary.
 
 ## Development-focused
 - [Martin Fowler:](https://martinfowler.com/) Contains a wide range of topics related to software development, but nonetheless relevant for testing.
