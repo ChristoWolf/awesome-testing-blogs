@@ -24,6 +24,7 @@ For pull requests, please adhere to the already present Markdown formatting.
 - [Software Testing Weekly:](https://softwaretestingweekly.com/) Weekly aggregation of curated blog posts related to various topics which can be easily consumed via newsletter.
 - [Huddle blog:](https://huddle.eurostarsoftwaretesting.com/blog/) Another blog offering posts about various topics.
 - [5blogs:](https://5blogs.wordpress.com/) 5 daily, newly curated software testing blog posts.
+- [A seasoned tester's crystal ball:](https://visible-quality.blogspot.com/) Great blog tackling many meta-level topics.
 - [Association for Software Testing:](https://associationforsoftwaretesting.org/blog/) More blog posts about various topics.
 - [XRAY Software Testing Blog:](https://www.getxray.app/blog/category/software-testing/) Even more software testing blog posts. Its yearly trends predictions sets this one apart.
 - [Testhouse Blogs:](https://www.testhouse.net/blogs/) Blog posts with strong focus on test management and QA.
@@ -32,6 +33,7 @@ For pull requests, please adhere to the already present Markdown formatting.
 - [Alexander on Testing:](https://alexanderontesting.com/) Another one containing various software testing related blog posts.
 - [Nicky tests:](https://nickytests.blogspot.com/) More focused on soft skills and manual testing.
 - [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
+- [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 
 ## Development-focused
 - [Martin Fowler:](https://martinfowler.com/) Contains a wide range of topics related to software development, but nonetheless relevant for testing.
