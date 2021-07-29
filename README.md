@@ -36,6 +36,7 @@ For pull requests, please adhere to the already present Markdown formatting.
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 
 ## Development-focused
+- [Ploeh Blog:](https://blog.ploeh.dk/) Software design focused blog offering various topics organized through tags, e.g. [unit testing design topics](https://blog.ploeh.dk/tags/#Unit%20Testing-ref).
 - [Martin Fowler:](https://martinfowler.com/) Contains a wide range of topics related to software development, but nonetheless relevant for testing.
 - [Adam the Automator:](https://adamtheautomator.com/) General automation blog with strong focus on Microsoft technologies, e.g. PowerShell.
 
