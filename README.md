@@ -31,7 +31,7 @@ For pull requests, please adhere to the already present Markdown formatting.
 - [Software Testing Magazine:](https://www.softwaretestingmagazine.com/) Contains articles about a multitude of easily filterable topics.
 - [Google Testing Blog:](https://testing.googleblog.com/) Low activity, but the posts are - nonetheless - quite interesting and cover various topics.
 - [Alexander on Testing:](https://alexanderontesting.com/) Another one containing various software testing related blog posts.
-- [Nicky tests:](https://nickytests.blogspot.com/) More focused on soft skills and manual testing.
+- [Nicola Lindgren's blog:](https://nicolalindgren.com/) More focused on soft skills and manual testing. Formerly known as nickytests.
 - [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 
