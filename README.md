@@ -33,6 +33,7 @@ For pull requests, please adhere to the already present Markdown formatting.
 - [Alexander on Testing:](https://alexanderontesting.com/) Another one containing various software testing related blog posts.
 - [Nicola Lindgren's blog:](https://nicolalindgren.com/) More focused on soft skills and manual testing. Formerly known as nickytests.
 - [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
+- [Simon Prior's blog:](https://simon-prior.uk/) A blog about quality and testing from a management perspective.
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 
 ## Development-focused
