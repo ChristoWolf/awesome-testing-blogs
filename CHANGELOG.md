@@ -1,3 +1,9 @@
+## v1.1.0
+
+### Additions
+
+- Added Chris James' blog.
+
 ## v1.0.0
 
 - Initial release.
