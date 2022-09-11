@@ -38,12 +38,16 @@ Look here for more in-depth blogs and articles on test engineering and design.
 
 ### Test automation
 
-- [Alexander on Testing:](https://alexanderontesting.com/) Another one containing various software testing related blog posts.
+- [Alexander on Testing:](https://alexanderontesting.com/) Contains various software testing related blog posts.
 - [Appium Pro:](https://appiumpro.com/editions) Blog about test automation with some focus on Appium-specific approaches.
 - [Automate the planet:](https://www.automatetheplanet.com/blog/) WebDriver-focused test automation with focus on architecture and design patterns.
 - [Automation Panda:](https://automationpanda.com/) As recommended by [awesome-testing on GitHub](https://git.io/v1hSm), a great blog covering automation related topics.
 - [On Test Automation:](https://www.ontestautomation.com/blog/) Focuses on test automation and API testing.
 - [TestProject Test Automation Blog:](https://blog.testproject.io/) Another one with focus on automated E2E and API testing.
+
+### Test-driven development
+
+- [Chris James' Blog:](https://quii.dev/) Great TDD content by the author of [Learn Go with Tests](https://github.com/quii/learn-go-with-tests).
 
 ### Software design
 
