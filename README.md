@@ -10,8 +10,10 @@ See [our contribution guidelines](https://github.com/ChristoWolf/awesome-testing
 
 - [Meta-level](#meta-level)
   - [Agile testing](#agile-testing)
+  - [Organizational](#organizational)
 - [Test engineering and architecture](#test-engineering-and-architecture)
   - [Test automation](#test-automation)
+  - [Test-driven development](#test-driven-development)
   - [Software design](#software-design)
   - [Infrastructure automation](#infrastructure-automation)
 - [Other](#other)
