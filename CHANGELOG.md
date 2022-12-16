@@ -1,3 +1,7 @@
+## 1.1.1
+
+- Updated stale table of contents.
+
 ## v1.1.0
 
 ### Additions
