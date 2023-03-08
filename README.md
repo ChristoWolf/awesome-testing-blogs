@@ -74,6 +74,7 @@ Last but not least, here are some other blogs that did not fit well into any of 
 - [Software Testing Magazine:](https://www.softwaretestingmagazine.com/) Contains articles about a multitude of easily filterable topics.
 - [Software Testing Weekly:](https://softwaretestingweekly.com/) Weekly aggregation of curated blog posts related to various topics which can be easily consumed via newsletter.
 - [Testhouse Blogs:](https://www.testhouse.net/blogs/) Blog posts with strong focus on test management and QA.
+- [The Green Report:](https://www.thegreenreport.blog/) A varied blog about quality assurance and software testing in particular.
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 - [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
 - [XRAY Software Testing Blog:](https://www.getxray.app/blog/category/software-testing/) Even more software testing blog posts. Its yearly trends predictions sets this one apart.
