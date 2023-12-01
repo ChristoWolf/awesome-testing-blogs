@@ -8,8 +8,6 @@ See [our contribution guidelines](https://github.com/ChristoWolf/awesome-testing
 
 ## Topics overview
 
-- [Awesome testing blogs](#awesome-testing-blogs)
-  - [Topics overview](#topics-overview)
   - [Meta-level](#meta-level)
     - [Agile testing](#agile-testing)
     - [Organizational](#organizational)
