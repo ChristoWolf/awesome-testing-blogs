@@ -8,15 +8,17 @@ See [our contribution guidelines](https://github.com/ChristoWolf/awesome-testing
 
 ## Topics overview
 
-- [Meta-level](#meta-level)
-  - [Agile testing](#agile-testing)
-  - [Organizational](#organizational)
-- [Test engineering and architecture](#test-engineering-and-architecture)
-  - [Test automation](#test-automation)
-  - [Test-driven development](#test-driven-development)
-  - [Software design](#software-design)
-  - [Infrastructure automation](#infrastructure-automation)
-- [Other](#other)
+- [Awesome testing blogs](#awesome-testing-blogs)
+  - [Topics overview](#topics-overview)
+  - [Meta-level](#meta-level)
+    - [Agile testing](#agile-testing)
+    - [Organizational](#organizational)
+  - [Test engineering and architecture](#test-engineering-and-architecture)
+    - [Test automation](#test-automation)
+    - [Test-driven development](#test-driven-development)
+    - [Software design](#software-design)
+    - [Infrastructure automation](#infrastructure-automation)
+  - [Other](#other)
 
 ## Meta-level
 
@@ -50,6 +52,8 @@ Look here for more in-depth blogs and articles on test engineering and design.
 ### Test-driven development
 
 - [Chris James' Blog:](https://quii.dev/) Great TDD content by the author of [Learn Go with Tests](https://github.com/quii/learn-go-with-tests).
+- [Throw The Switch:](http://www.throwtheswitch.org/) TDD with focus on embedded systems -> [Ceedling](http://www.throwtheswitch.org/ceedling), [CMock](http://www.throwtheswitch.org/cmock), [Unity](http://www.throwtheswitch.org/unity).
+- [Mark VanderVoord´s Blog:](http://vandervoord.net/) Blog from throwtheswitch founder with some [unit test how too´s and ceedling stuff](http://vandervoord.net/series).
 
 ### Software design
 
