@@ -50,6 +50,8 @@ Look here for more in-depth blogs and articles on test engineering and design.
 ### Test-driven development
 
 - [Chris James' Blog:](https://quii.dev/) Great TDD content by the author of [Learn Go with Tests](https://github.com/quii/learn-go-with-tests).
+- [ThrowTheSwitch.org:](http://www.throwtheswitch.org/) TDD-centric blog with focus on embedded systems and related technologies, e.g. [Ceedling](http://www.throwtheswitch.org/ceedling), [CMock](http://www.throwtheswitch.org/cmock), [Unity](http://www.throwtheswitch.org/unity).
+- [Mark VanderVoord´s Blog:](http://vandervoord.net/) Blog from ThrowTheSwitch.org founder offering [unit testing and Ceedling guides](http://vandervoord.net/series).
 
 ### Software design
 
