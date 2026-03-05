@@ -84,3 +84,4 @@ Last but not least, here are some other blogs that did not fit well into any of 
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 - [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
 - [XRAY Software Testing Blog:](https://www.getxray.app/blog/category/software-testing/) Even more software testing blog posts. Its yearly trends predictions sets this one apart.
+- [TestDino Blog:](https://testdino.com/blog/) Blogs  practical Playwright testing, AI-powered debugging, and QA observability playbooks so teams can turn noisy test suites into faster, more reliable delivery pipelines.
