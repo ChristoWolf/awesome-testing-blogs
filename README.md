@@ -29,7 +29,6 @@ Then look no further!
 - [Callum Akehurst-Ryan's blog:](https://cakehurstryan.com/blog-posts/) Mainly covers meta-level topics, but also goes into some technical details.
 - [Lisa Crispin:](https://lisacrispin.com/agile-testing-blog/) Lisa Crispin's official blog about agile testing.
 - [Nicola Lindgren's blog:](https://nicolalindgren.com/) More focused on soft skills and manual testing. Formerly known as nickytests.
-- [Simon Prior's blog:](https://simon-prior.uk/) A blog about quality and testing from a management perspective.
 - [Think like a tester:](https://thinkingtester.com/articles/) Focuses on meta-level topics with strong emphasis on agile methodologies.
 
 ### Organizational
@@ -47,6 +46,7 @@ Look here for more in-depth blogs and articles on test engineering and design.
 - [Automate the planet:](https://www.automatetheplanet.com/blog/) WebDriver-focused test automation with focus on architecture and design patterns.
 - [Automation Panda:](https://automationpanda.com/) As recommended by [awesome-testing on GitHub](https://git.io/v1hSm), a great blog covering automation related topics.
 - [David Burns - AutomatedTester:](https://www.theautomatedtester.co.uk/blog/) Blog about test automation and related design specifics.
+- [David Mello - Software Testing:](https://www.davidmello.com/software-testing) Hands on application, tips and practical solutions for software testing.
 - [On Test Automation:](https://www.ontestautomation.com/blog/) Focuses on test automation and API testing.
 - [TestProject Test Automation Blog:](https://blog.testproject.io/) Another one with focus on automated E2E and API testing.
 
@@ -79,8 +79,7 @@ Last but not least, here are some other blogs that did not fit well into any of 
 - [Software Testing Magazine:](https://www.softwaretestingmagazine.com/) Contains articles about a multitude of easily filterable topics.
 - [Software Testing Weekly:](https://softwaretestingweekly.com/) Weekly aggregation of curated blog posts related to various topics which can be easily consumed via newsletter.
 - [Testhouse Blogs:](https://www.testhouse.net/blogs/) Blog posts with strong focus on test management and QA.
-- [Testing with Marie:](https://www.testingwithmarie.com/blog) Covers various testing topics. Notable are the recurring "Month in Review" posts.
+- [Testing with Marie:](https://www.testingwithmarie.com/posts) Covers various testing topics. Notable are the recurring "Month in Review" posts.
 - [The Green Report:](https://www.thegreenreport.blog/) A varied blog about quality assurance and software testing in particular.
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
-- [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
-- [XRAY Software Testing Blog:](https://www.getxray.app/blog/category/software-testing/) Even more software testing blog posts. Its yearly trends predictions sets this one apart.
+- [XRAY Software Testing Blog:](https://www.getxray.app/blog) Even more software testing blog posts. Its yearly trends predictions sets this one apart.
