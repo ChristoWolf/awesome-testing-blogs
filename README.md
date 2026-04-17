@@ -49,6 +49,20 @@ Look here for more in-depth blogs and articles on test engineering and design.
 - [David Mello - Software Testing:](https://www.davidmello.com/software-testing) Hands on application, tips and practical solutions for software testing.
 - [On Test Automation:](https://www.ontestautomation.com/blog/) Focuses on test automation and API testing.
 - [TestProject Test Automation Blog:](https://blog.testproject.io/) Another one with focus on automated E2E and API testing.
+- [TestDino](https://testdino.com/blog/?cat=playwright) Blogs shares practical Playwright testing, AI-powered debugging, and QA observability playbooks so teams can turn noisy test suites into faster, more reliable delivery pipelines.
+
+Follow-ups
+
+Examples of popular TestDino blog posts on Playwright
+
+How to submit a guest post to TestDino blogs
+
+Key topics covered in TestDino's Playwright guides
+
+TestDino blog on AI failure categorization details
+
+Compare TestDino blogs to other Playwright resources
+
 
 ### Test-driven development
 
