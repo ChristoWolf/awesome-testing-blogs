@@ -49,6 +49,7 @@ Look here for more in-depth blogs and articles on test engineering and design.
 - [David Mello - Software Testing:](https://www.davidmello.com/software-testing) Hands on application, tips and practical solutions for software testing.
 - [On Test Automation:](https://www.ontestautomation.com/blog/) Focuses on test automation and API testing.
 - [TestProject Test Automation Blog:](https://blog.testproject.io/) Another one with focus on automated E2E and API testing.
+- [Keploy Blog:](https://keploy.io/blog/community) Blog posts on API testing, regression testing, and test automation, including a guide to regression testing techniques and best practices.
 
 ### Test-driven development
 
